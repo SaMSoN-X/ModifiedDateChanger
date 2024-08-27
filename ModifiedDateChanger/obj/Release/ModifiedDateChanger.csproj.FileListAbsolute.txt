@@ -1,0 +1,9 @@
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\bin\Release\ModifiedDateChanger.exe.config
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\bin\Release\ModifiedDateChanger.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\bin\Release\ModifiedDateChanger.pdb
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.AboutForm.resources
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.MainForm.resources
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.Properties.Resources.resources
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.csproj.GenerateResource.Cache
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.exe
+C:\Users\dp_samsonov\Documents\Visual Studio 2015\Projects\ModifiedDateChanger\ModifiedDateChanger\obj\Release\ModifiedDateChanger.pdb

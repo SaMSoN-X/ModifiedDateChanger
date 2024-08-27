@@ -1,0 +1,9 @@
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\bin\Debug\ModifyDateChanger.exe.config
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\bin\Debug\ModifyDateChanger.exe
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\bin\Debug\ModifyDateChanger.pdb
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.csprojResolveAssemblyReference.cache
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.Properties.Resources.resources
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.csproj.GenerateResource.Cache
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.exe
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.pdb
+c:\users\dp_samsonov\documents\visual studio 2015\Projects\ModifyDateChanger\ModifyDateChanger\obj\Debug\ModifyDateChanger.MainForm.resources
